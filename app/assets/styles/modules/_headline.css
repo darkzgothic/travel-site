@@ -44,4 +44,8 @@
 	strong {
 		font-weight: 400;
 	}
+
+	&--no-t-margin {
+		margin-top: 0;
+	}
 }
